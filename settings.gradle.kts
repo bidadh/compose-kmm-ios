@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "compose-kmm-ios"
 
 include(":androidApp")
 include(":shared")
